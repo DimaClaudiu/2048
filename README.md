@@ -15,7 +15,7 @@ The game has all the functions of the original, including undo, going back to pr
 As a bonus, the game is also able to play by itslef, in a pretty naive way, following a greedy style.
 
 #### Examples
-![](https://im5.ezgif.com/tmp/ezgif-5-4739b1dd8f8e.gif)
+![](https://i.imgur.com/CstsZOh.gif)
 
 ## Usage
 If you want to compile and play with the code you will need the ncurses library, the code was made for and tested on Linux.
