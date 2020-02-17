@@ -1,4 +1,4 @@
-# 2048
+# 2048-CLI
 The project is a challange to create a game without using OOP.
 
 #### - Project Status: [Completed]
@@ -20,10 +20,10 @@ As a bonus, the game is also able to play by itslef, in a pretty naive way, foll
 ## Usage
 If you want to compile and play with the code you will need the ncurses library, the code was made for and tested on Linux.
 #### Keys
-* Arrow Keys
-* Q (as a back button in menus)
-* u (undo)
-* Enter (for selecting menu items)
+* `Arrow Keys`
+* `Q` (as a back button in menus)
+* `u` (undo)
+* `Return` (for selecting menu items)
 
 ## Completion Date
 2017 December, 18
